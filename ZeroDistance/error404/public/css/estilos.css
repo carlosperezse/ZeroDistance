@@ -1,0 +1,100 @@
+.rojo {
+  color: red;
+}
+
+.azul{
+  color: #C4FBFF;
+}
+
+html{
+
+}
+
+body{
+  background: linear-gradient(rgba(84, 30, 133, 1), rgba(20, 125, 105, 1));
+  text-align: center;
+}
+
+header{
+  background-color: white;
+  width: 1000px;
+  height: 120px;
+  border-radius: 25px;
+  margin-left: auto;
+  margin-right:auto;
+  text-align: center;
+}
+
+section#nombre {
+  float: left;
+  width: inherit;
+  height: inherit;
+  font-family: "Roboto";
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div#zerodistance{
+  color: #2E95D8;
+  font-size: 60px;
+}
+
+div#slogan{
+  color: #800AF5;
+  font-size: 40px;
+}
+
+section#muerto{
+  position: absolute;
+  top: 170;
+  right: 300;
+}
+
+section#error{
+  position: absolute;
+  top: 170;
+  left: 300;
+}
+
+section#salud{
+  position: absolute;
+  top: 440;
+  left: 50;
+}
+
+section#pastillas{
+  position: absolute;
+  top: 450;
+  right: 20;
+}
+
+div#aviso{
+  font-family: "Roboto";
+  width: auto;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 50px;
+}
+
+h1{
+  color: #FF6043;
+  font-size: 120px;
+  height: 60px;
+}
+
+h2{
+  color: #FF6043;
+  font-size: 50px;
+}
+
+
+h3{
+  color: #F5B20A;
+  font-size: 50px;
+}
+
+a#volver{
+  color: #F5B20A;
+  font-size: 50px;
+}
